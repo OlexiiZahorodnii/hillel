@@ -54,4 +54,5 @@ function countSquare(int $BiggerSquare, int $SmallerSquare): float
 	return $BiggerSquare/$SmallerSquare;
 }
 var_dump(countSquare($BiggerSquare, $SmallerSquare));
+
 ?>
